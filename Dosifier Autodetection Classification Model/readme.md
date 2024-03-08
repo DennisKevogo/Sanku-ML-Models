@@ -5,6 +5,7 @@ What are some of the baseline questions?
 1.The baseline is to improve trip efficiency to remove wasted trips.
 
 2.The business benefit: How much are we spending on the trips to the mills and what is the cost implication																									
+
 3.How much are we spending on trips to the mills per month?
 
 4.Number of physical trips
