@@ -8,7 +8,7 @@ What are some of the baseline questions?
 
 3.How much are we spending on trips to the mills per month?
 
-4.Number of physical trips
+4.Number of physical trips.
 
 5.Time spent 
 
